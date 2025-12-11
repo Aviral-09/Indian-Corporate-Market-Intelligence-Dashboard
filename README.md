@@ -4,7 +4,7 @@ A comprehensive ecosystem to analyze and visualize data from Indian companies. T
 
 ## 🌟 Features
 
-### 1. **Company Intelligence Dashboard** �
+### 1. **Company Intelligence Dashboard** 📊
    - **Key Performance Indicators (KPIs)**: Instant view of Average Ratings, Total Job Openings, and Total Reviews across the market.
    - **Top Performers**: Visual rankings of:
      - 🏆 **Top Rated Companies**
@@ -14,7 +14,7 @@ A comprehensive ecosystem to analyze and visualize data from Indian companies. T
      - 💰 **Companies with Most Salary Data**
    - **Rating Distribution**: Histogram analysis of company ratings.
 
-### 2. **Interactive Filtering & Exploration** �
+### 2. **Interactive Filtering & Exploration** 🔍
    - **Smart Filters**:
      - Filter companies by minimum **Rating** (0.0 - 5.0).
      - Multi-select search for specific **Companies**.
@@ -41,13 +41,6 @@ A comprehensive ecosystem to analyze and visualize data from Indian companies. T
 ---
 
 ## 🚀 Getting Started
-
-### Prerequisites
-
-Ensure you have Python installed. You can check by running:
-```bash
-python --version
-```
 
 ### Installation
 
